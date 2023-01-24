@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.springboot.studservice.StudentService;
+import com.springboot.stud.service.StudentService;
 
 @Controller
 public class StudentController {
